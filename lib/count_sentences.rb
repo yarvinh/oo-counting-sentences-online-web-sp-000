@@ -19,7 +19,7 @@ class String
       0
     else
     point = self.split(".").size
-    self.split("!").size - 1 + point
+    # self.split("!").size - 1 + point
     end
 
   end
